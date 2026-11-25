@@ -1,0 +1,4 @@
+{"time": "2026-01-01T00:00:00+00:00", "service": "example-worker", "issue": "process dead", "action": "restart it"}
+{"time": "2026-01-01T00:05:00+00:00", "service": "example-api", "issue": "api 401 unauthorized", "action": "check the key"}
+{"time": "2026-01-01T00:10:00+00:00", "service": "example-service", "issue": "wallet not registered", "action": "re-register example-service"}
+{"time": "2026-01-01T00:15:00+00:00", "service": "example-jobs", "issue": "funding needed", "action": "user needs to fund"}
